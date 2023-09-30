@@ -6,3 +6,5 @@ Some text
     3. The third line
     
     This is a conflict  - test
+
+    This is in the master branch.
